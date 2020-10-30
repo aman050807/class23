@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"name": "class-23",
+			"path": "."
+		},
+		{
+			"name": "project20",
+			"path": "..\\whitehat projects\\project20"
+		},
+		{
+			"name": "bounceOffAlgorithm-master",
+			"path": "..\\whitehat projects\\bounceOffAlgorithm-master"
+		},
+		{
+			"name": "p5.play-boilerplate-master",
+			"path": "..\\..\\Downloads\\p5.play-boilerplate-master"
+		},
+		{
+			"name": "bouncyBall-master",
+			"path": "..\\bouncyBall-master"
+		},
+		{
+			"name": "p5.play-boilerplate-master",
+			"path": "..\\..\\Downloads\\p5.play-boilerplate-master (1)\\p5.play-boilerplate-master"
+		},
+		{
+			"name": "p5.play-boilerplate-master (1)",
+			"path": "..\\..\\Downloads\\p5.play-boilerplate-master (1)"
+		},
+		{
+			"name": "SupplyMission-master",
+			"path": "..\\SupplyMission-master"
+		},
+		{
+			"name": "PhysicsEngin",
+			"path": "..\\PhysicsEngin"
+		}
+	],
+	"settings": {}
+}
